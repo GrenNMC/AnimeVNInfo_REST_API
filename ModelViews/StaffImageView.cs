@@ -1,0 +1,10 @@
+﻿namespace AnimeVnInfoBackend.ModelViews
+{
+    public class StaffImageView
+    {
+        public int Id { get; set; }
+        public string? Image { get; set; }
+        public bool IsAvatar { get; set; }
+        public int? StaffId { get; set; }
+    }
+}
