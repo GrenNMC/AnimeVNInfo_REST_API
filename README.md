@@ -27,4 +27,4 @@ Trước khi bắt đầu, hãy chắc chắn rằng bạn đã cài đặt các
 ````bash
 dotnet run
 ````
-##Truy cập API: Mở một trình duyệt web hoặc sử dụng công cụ như Postman để truy cập các điểm cuối của API tại https://localhost:port/api.
+## Truy cập API: Mở một trình duyệt web hoặc sử dụng công cụ như Postman để truy cập các điểm cuối của API tại https://localhost:port/api.
